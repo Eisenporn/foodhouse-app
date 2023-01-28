@@ -9,7 +9,6 @@ const Menu = () => {
             <div className="filter">
                 <div className="filter-item">
                     <div className="item__group">
-                        {/*<i className="fa-solid fa-salad"></i>*/}
                         <img src="src/assets/web-site-icons/emojione_green-salad.svg" alt="item__group"/>
                         <p>
                             Салаты
