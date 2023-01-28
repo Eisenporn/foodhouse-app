@@ -46,7 +46,6 @@ header nav {
 }
 
 .nav-list li {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -56,27 +55,22 @@ header nav {
 }
 
 .nav-list li:hover {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
-
   color: #FE8C01;
 }
 
 .hero-text-pre-article {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
-
   color: #FE8C01;
 }
 
 .hero-text-article h1 {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 155px;
@@ -85,7 +79,6 @@ header nav {
 }
 
 .hero-text-article h1 span {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 155px;
@@ -94,7 +87,6 @@ header nav {
 }
 
 .hero-text-description {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -108,14 +100,12 @@ header nav {
   border-radius: 100px;
   width: fit-content;
   text-decoration: none;
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
   line-height: 34px;
   text-align: center;
   padding: 18px 80px;
-
   color: #FFFFFF;
 }
 
@@ -124,12 +114,10 @@ header nav {
 }
 
 .hero-button-order p {
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-
   color: #C4C4C4;
 }
 
@@ -149,15 +137,12 @@ header nav {
 }
 
 .section-header__title {
-  font-family: 'Montserrat Alternates', sans-serif;
   text-decoration: underline 8px #FE8C01;
   font-style: normal;
   font-weight: 700;
   font-size: 64px;
   line-height: 78px;
-  /* identical to box height */
   text-align: center;
-
   color: #232323;
 }
 
@@ -179,9 +164,7 @@ menu {
 .filter-item {
   --size: 250px;
   max-width: var(--size);
-  /*min-width: 100px;*/
   max-height: var(--size);
-  /*min-height: 100px;*/
   background: #E9F8FB;
   text-align: center;
   border-radius: 16px;
@@ -203,12 +186,10 @@ menu {
 
 .item__group p {
   padding: 0 0 20px;
-  font-family: 'Montserrat Alternates', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 44px;
-  /* identical to box height */
   color: #232323;
   margin: auto auto 0 auto;
 }
@@ -259,7 +240,6 @@ menu {
   color: white;
   background-size: cover;
   background-position: center, center;
-
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -314,7 +294,6 @@ menu {
   left: 50%;
   transform: translate(-50%, 0%);
   margin-top: 60px;
-
 }
 
 .show-more:hover {
